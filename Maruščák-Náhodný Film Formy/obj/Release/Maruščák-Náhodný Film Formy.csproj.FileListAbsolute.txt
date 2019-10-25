@@ -1,0 +1,17 @@
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\Maruščák-Náhodný Film Formy.exe.config
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\Maruščák-Náhodný Film Formy.exe
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\Maruščák-Náhodný Film Formy.pdb
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\Hasseware.Net.TMDb.dll
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\Newtonsoft.Json.dll
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\TheMovieDb.dll
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\TMDbLib.dll
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\Hasseware.Net.TMDb.xml
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\Newtonsoft.Json.xml
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\bin\Release\TMDbLib.pdb
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\obj\Release\Maruščák_Náhodný_Film_Formy.Form1.resources
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\obj\Release\Maruščák_Náhodný_Film_Formy.Properties.Resources.resources
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\obj\Release\Maruščák-Náhodný Film Formy.csproj.GenerateResource.cache
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\obj\Release\Maruščák-Náhodný Film Formy.csproj.CoreCompileInputs.cache
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\obj\Release\Maruščák-Náhodný Film Formy.csproj.CopyComplete
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\obj\Release\Maruščák-Náhodný Film Formy.exe
+C:\Users\janma\Desktop\Maruščák-Náhodný Film Formy\Maruščák-Náhodný Film Formy\obj\Release\Maruščák-Náhodný Film Formy.pdb
