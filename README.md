@@ -1,1 +1,1 @@
-# Random Movie/TV Show finder from the TMDb database.
+# Movie/TV Show search tool using the TMDb database.
